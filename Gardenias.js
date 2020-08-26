@@ -26977,10 +26977,10 @@ var LandingPage = /*#__PURE__*/function (_Component) {
       }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_mdl__WEBPACK_IMPORTED_MODULE_1__["Cell"], {
         col: 12
       }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
-        href: "https://google.com"
+        href: "#"
       }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
         src: _Images_ManuelP_jpg__WEBPACK_IMPORTED_MODULE_2__["default"],
-        alt: "avatar",
+        alt: "Manuel P\xE9rez",
         className: "avatar-image"
       }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", null), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
         className: "banner-text"
